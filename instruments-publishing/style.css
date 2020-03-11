@@ -1,0 +1,61 @@
+﻿body{
+ background-image:url('книги.jpg');
+font-family:arial;	
+}
+.T{
+position: relative;
+bottom: 17vh;
+left: 1vw;
+font-size: 20px;
+}
+.m{
+margin-left:20vw;	
+background:#6F7340;
+margin-right:20vw;
+height:90vh;
+border:3px solid #000;
+border-radius:15px;
+box-shadow:10px 8px 5px  #000; 
+}
+.Te{
+font-size:20px;
+}
+table {
+margin: 0 auto;
+} 
+
+img
+{
+width:15vw;
+height:40vh;
+}
+a:hover {
+   color: #2196F3;
+   border: none;
+}
+.title{
+width:50%;
+margin: 0 auto;	
+}
+a{
+font-size:20px;	
+
+}
+#but1{
+
+}
+#but2{
+	
+}
+#but3{
+	
+}
+#div1{
+
+}
+#div2{
+display:none;
+}
+#div3{
+display:none;
+}
